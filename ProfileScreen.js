@@ -8,7 +8,7 @@ import PreferencesScreen from './PreferencesScreen';
 
 const profileData = {
   username: 'name',
-  bio: 'This is the user bio. 📷✨\n#hashtag @mention\nThreads',
+  bio: 'This is the user bio. 📷✨\nThreads',
   posts: 9,
   followers: '340',
   following: 180,
